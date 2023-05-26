@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-npm install --save react-ckeditor5-with-tags
+npm install --save  ckeditor5-tags
 ```
 
 ## Usage
